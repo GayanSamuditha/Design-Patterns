@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88188645-5d0a-465f-b255-3db7533c3f90" name="Default Changelist" comment="" />
+    <list default="true" id="88188645-5d0a-465f-b255-3db7533c3f90" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryPattern/LogisticsDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FactoryPattern/LogisticsDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryPattern/LogisticsExample/CreateLogistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FactoryPattern/LogisticsExample/CreateLogistics.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,17 +20,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1bl9esnoHe6cqcUkuHfkuTdAJwi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Factory-Pattern-Java-Example/Factory Pattern Java Example" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -34,7 +43,46 @@
       <recent name="FactoryPattern" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MomentoDesignPattern">
+    <configuration name="ATMMachineDispenseChain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChainOfResponsibilityPattern.ATMMachineDispenseChain" />
+      <module name="Developments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ChainOfResponsibilityPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuilderPatternDesign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BuilderPattern.BuilderPatternDesign" />
+      <module name="Developments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BuilderPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MomentoDesignPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MomentoPattern.MomentoDesignPattern" />
+      <module name="Developments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MomentoPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SailorTeam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SingletonPattern.SailorTeam" />
       <module name="Developments" />
@@ -50,6 +98,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MomentoDesignPattern" />
+        <item itemvalue="Application.ATMMachineDispenseChain" />
+        <item itemvalue="Application.BuilderPatternDesign" />
         <item itemvalue="Application.SailorTeam" />
       </list>
     </recent_temporary>
@@ -65,24 +116,47 @@
       <option name="presentableId" value="Default" />
       <updated>1589195911422</updated>
       <workItem from="1589195917636" duration="6556000" />
+      <workItem from="1589686251429" duration="2322000" />
+      <workItem from="1589774606295" duration="607000" />
+      <workItem from="1590058838275" duration="2067000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1589212622639">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1589686785957">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.826/-1920.0.1920.1032@0.0.1536.826" timestamp="1589212622639" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.826/-1920.0.1920.1032@0.0.1536.826" timestamp="1589686785957" />
     <state x="549" y="106" key="FileChooserDialogImpl" timestamp="1589212695127">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
     <state x="549" y="106" key="FileChooserDialogImpl/0.0.1536.826/-1920.0.1920.1032@0.0.1536.826" timestamp="1589212695127" />
+    <state width="1491" height="409" key="GridCell.Tab.0.bottom" timestamp="1589775226666">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1491" height="409" key="GridCell.Tab.0.bottom/0.0.1536.826/-1920.0.1920.1032@0.0.1536.826" timestamp="1589775226666" />
+    <state width="1491" height="409" key="GridCell.Tab.0.center" timestamp="1589775226666">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1491" height="409" key="GridCell.Tab.0.center/0.0.1536.826/-1920.0.1920.1032@0.0.1536.826" timestamp="1589775226666" />
+    <state width="1491" height="409" key="GridCell.Tab.0.left" timestamp="1589775226666">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1491" height="409" key="GridCell.Tab.0.left/0.0.1536.826/-1920.0.1920.1032@0.0.1536.826" timestamp="1589775226666" />
+    <state width="1491" height="409" key="GridCell.Tab.0.right" timestamp="1589775226666">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1491" height="409" key="GridCell.Tab.0.right/0.0.1536.826/-1920.0.1920.1032@0.0.1536.826" timestamp="1589775226666" />
     <state x="439" y="111" width="902" height="603" key="NewModule_or_Project.wizard" timestamp="1589212721368">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
     <state x="439" y="111" width="902" height="603" key="NewModule_or_Project.wizard/0.0.1536.826/-1920.0.1920.1032@0.0.1536.826" timestamp="1589212721368" />
+    <state x="431" y="147" width="672" height="678" key="search.everywhere.popup" timestamp="1589774733944">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="431" y="147" width="672" height="678" key="search.everywhere.popup/0.0.1536.826/-1920.0.1920.1032@0.0.1536.826" timestamp="1589774733944" />
   </component>
 </project>
